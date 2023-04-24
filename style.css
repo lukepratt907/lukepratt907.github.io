@@ -133,3 +133,19 @@ section {
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
 }
+/*Contact Page*/
+.contact {
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background: var(--second-bg-color);
+}
+.contact h2 {
+    margin-bottom: 3rem;
+}
+.contact form {
+    max-width: 70rem;
+    margin: 1rem auto;
+    text-align: center;
+    margin-bottom: 3rem;
+}
