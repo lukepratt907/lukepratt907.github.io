@@ -20,8 +20,17 @@ html {/*?*/
     overflow-x: hidden;
 }
 body {/*sets colors for body of page*/
-    background: var(--bg-color);
+    background: var(--second-bg-color);
     color: var(--text-color);
+}
+
+article {
+    border-style: solid;
+    border-color: #fff;
+    /*Fix where the borders are to make good looking resume*/
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
 }
 section {
     min-height: 100vh;
