@@ -32,13 +32,12 @@ article {
     padding: 1rem;
     margin-bottom: 1rem;
 }
-/*
 section {
     min-height: 100vh;
     padding: 10rem 9% 2rem;
-}*/
+}
 .header {
-    position: fixed;
+    position: fixed;/*doesnt move when you scroll*/
     top: 0;
     left: 0;
     width: 100%;
