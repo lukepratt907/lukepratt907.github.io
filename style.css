@@ -245,3 +245,7 @@ section {
     font-size: 2rem;
     color: var(--second-bg-color);
 }
+a {
+    text-decoration: none;
+    color: white;
+}
