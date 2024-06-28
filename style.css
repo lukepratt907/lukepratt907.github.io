@@ -249,3 +249,7 @@ a {
     text-decoration: none;
     color: white;
 }
+
+p {
+    text-indent: 4em;
+}
